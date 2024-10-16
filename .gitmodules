@@ -1,0 +1,36 @@
+[submodule "deck"]
+	path = deck
+	url = https://github.com/spinnaker/deck.git
+[submodule "gate"]
+	path = gate
+	url = https://github.com/spinnaker/gate
+[submodule "orca"]
+	path = orca
+	url = https://github.com/spinnaker/orca
+[submodule "clouddriver"]
+	path = clouddriver
+	url = https://github.com/spinnaker/clouddriver
+[submodule "front50"]
+	path = front50
+	url = https://github.com/spinnaker/front50
+[submodule "rosco"]
+	path = rosco
+	url = https://github.com/spinnaker/rosco
+[submodule "igor"]
+	path = igor
+	url = https://github.com/spinnaker/igor
+[submodule "echo"]
+	path = echo
+	url = https://github.com/spinnaker/echo
+[submodule "fiat"]
+	path = fiat
+	url = https://github.com/spinnaker/fiat
+[submodule "kayenta"]
+	path = kayenta
+	url = https://github.com/spinnaker/kayenta
+[submodule "keel"]
+	path = keel
+	url = https://github.com/spinnaker/keel
+[submodule "halyard"]
+	path = halyard
+	url = https://github.com/spinnaker/halyard
